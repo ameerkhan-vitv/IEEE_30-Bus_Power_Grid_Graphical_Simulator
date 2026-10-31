@@ -1,6 +1,6 @@
 # IEEE_30-Bus_Power_Grid_Graphical_Simulator
 
-The source code is organized into a modular design for simple troubleshooting:
+The source code is organized into a modular design;
 
 • grid_data.py: Holds raw electrical parameters (R, X, B, ratings, generation setups, and standard bus loads).
 
